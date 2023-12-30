@@ -1,0 +1,7 @@
+port: 8080
+
+db:
+  host: "localhost"
+  port: 8889
+  username: "root"
+  dbname: "ToDoApp"
